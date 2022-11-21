@@ -1,4 +1,4 @@
-# Ninja-Bug-Tracker
+# Issue-Tracker
 
 A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
 
@@ -6,11 +6,11 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 Run this command in your GitHub CLI
 
-- gh repo clone codingXpert/demo
+-gh repo clone sahil2k19/issueTracker
 
 # or use the URL
 
-https://github.com/codingXpert/demo
+https://github.com/sahil2k19/issueTracker.git
 
 # Features
 
@@ -26,4 +26,4 @@ https://github.com/codingXpert/demo
 
 # Hosted URL
 
-https://dem00000.herokuapp.com/
+https://issue-tracker-by-sahil-gagan.herokuapp.com/
